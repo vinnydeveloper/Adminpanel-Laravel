@@ -65,6 +65,13 @@
                             </div>
                         </div>
                     </form>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <a href="/auth/facebook">
+                                <img src="{{ asset('img/facebook-login.png') }}">
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
